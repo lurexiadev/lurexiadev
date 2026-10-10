@@ -8,7 +8,7 @@
 
 <br>
 
-### Building Ideas Into Reality.
+### Best Ecosystem Ever.
 
 *From foundations to innovation.*
 
@@ -28,10 +28,10 @@
 
 ---
 
-## 👋 About Me
+## 👋 WHO AM I?
 
 ```yaml
-name: "Selam"
+name: "Muammer"
 location: "Türkiye"
 role: "Builder & Technology Enthusiast"
 
